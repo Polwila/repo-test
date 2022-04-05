@@ -2,6 +2,6 @@
 
 Lorem Ipsum  
 
-##subheader
+## subheader
 
 Lorem ipsum
