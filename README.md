@@ -1,3 +1,3 @@
 # DEMO
 
-Loren Ipsum  
+Lorem Ipsum  
